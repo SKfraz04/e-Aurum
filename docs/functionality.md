@@ -7,7 +7,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 :::tip Overview
-e‑Aurum provides a seamless and secure platform for users to buy, sell, and redeem digital gold tokens (EAU). This section outlines the full user journey, from onboarding to redemption, along with the platform's core transactional functionalities.
+e‑Aurum provides a seamless and secure platform for users to buy, sell, and redeem digital gold tokens (eAU). This section outlines the full user journey, from onboarding to redemption, along with the platform's core transactional functionalities.
 :::
 
 ## A. Buying eAU Tokens

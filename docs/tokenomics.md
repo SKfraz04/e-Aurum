@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 ## Token Overview
 
-- e‑Aurum (EAU) is a BEP‑20 digital asset on Binance Smart Chain, designed to deliver the stability of physical gold in a fully programmable format. Each EAU token is precisely pegged to **1 gram of audited, allocated gold**, ensuring that token supply mirrors real‑world reserves at all times.
+- e‑Aurum (eAU) is a BEP‑20 digital asset on Binance Smart Chain, designed to deliver the stability of physical gold in a fully programmable format. Each EAU token is precisely pegged to **1 gram of audited, allocated gold**, ensuring that token supply mirrors real‑world reserves at all times.
 - By combining blockchain transparency with best‑in‑class security, e‑Aurum democratizes gold ownership and unlocks new financial utility for a traditionally illiquid asset.
 
 :::note Key Feature
