@@ -7,10 +7,10 @@ e‑Aurum's roadmap focuses on phased development and expansion, ensuring techni
 
 ## Phase 1: Platform Launch (Completed)
 
-- **Project documentation, whitepaper, and roadmap finalized**
-- **Web and mobile UI/UX prototyping**
-- **Smart contract architecture completed**
-- **Brand identity and logo design**
+1. **Project documentation, whitepaper, and roadmap finalized**
+2. **Web and mobile UI/UX prototyping**
+3. **Smart contract architecture completed**
+4. **Brand identity and logo design**
 
 ## Phase 2: Core Development (In Progress)
 
