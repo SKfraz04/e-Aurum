@@ -14,10 +14,10 @@ e‑Aurum's roadmap focuses on phased development and expansion, ensuring techni
 
 ## Phase 2: Core Development (In Progress)
 
-- **Web landing page and admin panel development**
-- **Mobile app development (React Native)**
-- **Smart contracts deployed to testnet with audit preparations**
-- **Initial wallet and user onboarding features implemented**
+1. **Web landing page and admin panel development**
+2. **Mobile app development (React Native)**
+3. **Smart contracts deployed to testnet with audit preparations**
+4. **Initial wallet and user onboarding features implemented**
 
 ## Phase 3: Smart Contract Auditing & Wallet Integration
 
@@ -25,22 +25,22 @@ e‑Aurum's roadmap focuses on phased development and expansion, ensuring techni
 e-Aurum is committed to continual innovation, with several enhancements and new features in the pipeline.
 :::
 
-- **External smart contract audit by third-party security firm**
-- **Refinement of mobile app (70–80% feature complete)**
-- **Fiat on-ramp integration (Banxa or Ramp) on web and mobile**
+1.  **External smart contract audit by third-party security firm**
+2.  **Refinement of mobile app (70–80% feature complete)**
+3.  **Fiat on-ramp integration (Banxa or Ramp) on web and mobile** 
 
 ## Phase 4: UAT & Internal Beta Testing
 
-- **Comprehensive User Acceptance Testing (UAT)**
-- **Test cases and bug fixes across mobile and web**
-- **Token redemption simulation and audit trails**
+1. **Comprehensive User Acceptance Testing (UAT)**
+2. **Test cases and bug fixes across mobile and web**
+3. **Token redemption simulation and audit trails**
 
 ## Phase 5: Public Launch
 
-- **Public launch of web and mobile apps**
-- **Token sale and KYC onboarding**
-- **Enable buy/sell/redeem features for UAE region**
-- **Initial platform-wide Proof of Reserve reports published**
+1. **Public launch of web and mobile apps**
+2. **Token sale and KYC onboarding**
+3. **Enable buy/sell/redeem features for UAE region**
+4. **Initial platform-wide Proof of Reserve reports published**
 
 ## Phase 6: Post-Launch Expansion
 
@@ -48,11 +48,11 @@ e-Aurum is committed to continual innovation, with several enhancements and new 
 To further strengthen the digital gold ecosystem, e-Aurum is focused on broadening its reach through strategic integrations.
 :::
 
-- **Physical gold redemption expansion to more geographies**
-- **CEX listings for global exposure (e.g., Binance, Kraken)**
-- **Staking, yield, and savings products using eAU token**
-- **Integration with DeFi protocols and gold-backed loans**
-- **On-chain Proof of Reserve oracle deployment**
+1. **Physical gold redemption expansion to more geographies**
+2. **CEX listings for global exposure (e.g., Binance, Kraken)**
+3. **Staking, yield, and savings products using eAU token**
+4. **Integration with DeFi protocols and gold-backed loans**
+5. **On-chain Proof of Reserve oracle deployment**
 
 ## Future Vision
 
