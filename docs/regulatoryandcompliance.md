@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 ## Proof of Reserve (PoR) System
 
-The e‑Aurum platform operates under a strict Proof of Reserve (PoR) model, ensuring complete transparency and trust. Every EAU token in circulation is backed by 1 gram of physical gold held securely in Brinks' vaults—a globally recognized, insured custodian.
+The e‑Aurum platform operates under a strict Proof of Reserve (PoR) model, ensuring complete transparency and trust. Every eAU token in circulation is backed by 1 gram of physical gold held securely in Brinks' vaults—a globally recognized, insured custodian.
 
 <Tabs>
   <TabItem value="backing" label="1:1 Gold Backing">

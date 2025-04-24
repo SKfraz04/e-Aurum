@@ -4,7 +4,7 @@ title: Smart Contract
 ---
 
 
-The e-Aurum Token Contract serves as the cornerstone of the platform's token economy, governing the creation, transfer, and overall management of EAU tokens.
+The e-Aurum Token Contract serves as the cornerstone of the platform's token economy, governing the creation, transfer, and overall management of eAU tokens.
 
 
 ## e-Aurum Token Contract 
@@ -25,7 +25,7 @@ The contract ensures that each token remains a true digital representation of ph
 To incentivize long-term engagement and promote network security, e-Aurum employs a dedicated Staking & Reward Contract.
 :::
 
-- **Reward Participation:** Users who stake their EAU tokens are eligible to receive periodic rewards, fostering a more engaged community and enhancing liquidity. 
+- **Reward Participation:** Users who stake their eAU tokens are eligible to receive periodic rewards, fostering a more engaged community and enhancing liquidity. 
 
 - **Lock-In Mechanism:** Tokens staked are locked for a predetermined period, contributing to network stability while mitigating excessive market volatility. 
 
@@ -36,9 +36,9 @@ To incentivize long-term engagement and promote network security, e-Aurum employ
 ## Redemption & Minting Mechanism 
 
 
-- **Token Minting:** New EAU tokens are minted only when there is a verified increase in physical gold reserves. This process is automated via smart contracts to ensure that token supply directly corresponds with asset backing. 
+- **Token Minting:** New eAU tokens are minted only when there is a verified increase in physical gold reserves. This process is automated via smart contracts to ensure that token supply directly corresponds with asset backing. 
 
-- **Token Redemption:** Users can redeem EAU tokens for physical gold. Upon successful verification and approval, the corresponding tokens are burned, ensuring that the token supply remains aligned with the actual gold reserves. 
+- **Token Redemption:** Users can redeem eAU tokens for physical gold. Upon successful verification and approval, the corresponding tokens are burned, ensuring that the token supply remains aligned with the actual gold reserves. 
 
 - **Automated Adjustments:** Smart contracts dynamically adjust the total supply through minting and burning mechanisms based on real-time assessments of physical gold holdings, ensuring price stability and asset integrity. 
 
@@ -50,7 +50,7 @@ The platform's Redemption & Minting Mechanism is central to maintaining the equi
 ## Oracle Integration for Price Updates 
 
 
-To maintain an accurate peg between the EAU token and the physical gold price, the platform integrates reliable oracle services.
+To maintain an accurate peg between the eAU token and the physical gold price, the platform integrates reliable oracle services.
 
 
 - **Decentralized Price Feeds:** Integration with oracle networks like Chainlink ensures that the platform receives tamper-proof, real-time gold price data from multiple sources. 

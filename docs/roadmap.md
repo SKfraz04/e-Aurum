@@ -50,7 +50,7 @@ To further strengthen the digital gold ecosystem, e-Aurum is focused on broadeni
 
 - **Physical gold redemption expansion to more geographies**
 - **CEX listings for global exposure (e.g., Binance, Kraken)**
-- **Staking, yield, and savings products using EAU token**
+- **Staking, yield, and savings products using eAU token**
 - **Integration with DeFi protocols and gold-backed loans**
 - **On-chain Proof of Reserve oracle deployment**
 
@@ -59,7 +59,7 @@ To further strengthen the digital gold ecosystem, e-Aurum is focused on broadeni
 <details>  
   <summary>Broader access to global markets</summary> 
 
-  Expansion via exchange listings to provide global accessibility to the EAU token.
+  Expansion via exchange listings to provide global accessibility to the eAU token.
 
 </details>  
 

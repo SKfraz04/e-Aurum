@@ -14,28 +14,28 @@ This section addresses common questions and outlines troubleshooting guidelines 
 <details>
   <summary>What is e‑Aurum?</summary>
 
-  e‑Aurum is a blockchain-based digital gold platform where each EAU token represents 1 gram of physical gold stored in secure vaults with Brinks. It allows users to buy, sell, and redeem digital gold easily via web and mobile.
+  e‑Aurum is a blockchain-based digital gold platform where each eAU token represents 1 gram of physical gold stored in secure vaults with Brinks. It allows users to buy, sell, and redeem digital gold easily via web and mobile.
 
 </details>
 
 <details>
   <summary>Is each token really backed by physical gold?</summary>
 
-  Yes. Each EAU token is 100% backed by 1 gram of gold, with Brinks vault verification. The platform uses a Proof of Reserve system that includes token burn/mint transparency and third-party audits.
+  Yes. Each eAU token is 100% backed by 1 gram of gold, with Brinks vault verification. The platform uses a Proof of Reserve system that includes token burn/mint transparency and third-party audits.
 
 </details>
 
 <details>
-  <summary>Can I trade EAU on other exchanges?</summary>
+  <summary>Can I trade eAU on other exchanges?</summary>
 
-  Initially, EAU is tradable only within the e‑Aurum ecosystem to maintain price stability and avoid DEX volatility. Future listings on centralized exchanges (CEXs) are planned.
+  Initially, eAU is tradable only within the e‑Aurum ecosystem to maintain price stability and avoid DEX volatility. Future listings on centralized exchanges (CEXs) are planned.
 
 </details>
 
 <details>
   <summary>Is there a minimum amount to buy or redeem?</summary>
 
-  There is no minimum for buying EAU. However, physical redemption may have minimum gram thresholds depending on logistics and delivery method.
+  There is no minimum for buying eAU. However, physical redemption may have minimum gram thresholds depending on logistics and delivery method.
 
 </details>
 
@@ -62,7 +62,7 @@ This section addresses common questions and outlines troubleshooting guidelines 
   </TabItem>
 
   <TabItem value="networks" label="What networks are supported?">
-    EAU is built on Binance Smart Chain (BEP-20), and supports integration 
+    eAU is built on Binance Smart Chain (BEP-20), and supports integration 
     with its compatible wallets.
   </TabItem>
 </Tabs>
@@ -80,8 +80,8 @@ Users might encounter delays in transaction processing or unexpected behavior du
   </TabItem>
 
   <TabItem value="price" label="How is the token price determined?">
-    EAU's value is pegged to live gold market prices using oracle integrations. 
-    The price per EAU equals 1 gram of gold.
+    eAU's value is pegged to live gold market prices using oracle integrations. 
+    The price per eAU equals 1 gram of gold.
   </TabItem>
 
   <TabItem value="payout" label="I didn't receive my payout after selling tokens—why?">

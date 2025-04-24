@@ -26,11 +26,11 @@ e‑Aurum provides a seamless and secure platform for users to buy, sell, and re
   - Cryptocurrencies including USDT, USDC, or ETH
 
 - **4. Live Gold Price Display:**
-  The real-time gold price per gram is displayed on the platform, which serves as the pricing basis for 1 EAU token.
+  The real-time gold price per gram is displayed on the platform, which serves as the pricing basis for 1 eAU token.
 
 - **5. Purchase Execution:**
-  - Users enter the quantity of gold they wish to purchase (e.g., 10 grams = 10 EAU).
-  - Upon payment confirmation, an equivalent number of EAU tokens are minted and sent to the user's wallet.
+  - Users enter the quantity of gold they wish to purchase (e.g., 10 grams = 10 eAU).
+  - Upon payment confirmation, an equivalent number of eAU tokens are minted and sent to the user's wallet.
   - Users receive a transaction receipt and proof of reserve linked to the minted tokens.
 
 :::info Purchase Process
@@ -40,13 +40,13 @@ The e‑Aurum platform offers a seamless and secure process for purchasing digit
 ## B. Selling eAU Tokens
 
 - **1. Sell Order Initiation:**
-  Users specify the number of EAU tokens they wish to sell back to the platform.
+  Users specify the number of eAU tokens they wish to sell back to the platform.
 
 - **2. Price Confirmation:**
   The platform confirms the current live price of gold before proceeding.
 
 - **3. Token Transfer & Burn:**
-  - Users transfer EAU tokens back to the platform's wallet.
+  - Users transfer eAU tokens back to the platform's wallet.
   - Tokens are then burned, and users receive the corresponding fiat or crypto equivalent.
 
 ## C. Redeem/ Physical Gold (UAE Only – Initial Phase)

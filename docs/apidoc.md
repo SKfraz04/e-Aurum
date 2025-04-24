@@ -11,7 +11,7 @@ e‑Aurum offers a robust and secure API suite to enable seamless integrations a
 
 <Tabs>
   <TabItem value="balance" label="Token Balance Endpoint">
-    Retrieve the balance of EAU tokens held by a specific address.
+    Retrieve the balance of eAU tokens held by a specific address.
   </TabItem>
 
   <TabItem value="history" label="Transaction History">
@@ -71,5 +71,5 @@ e-Aurum's robust interaction framework ensures that developers can easily interf
 </details>
 
 :::warning Testing Environment
-By providing a structured and developer-friendly API ecosystem, e‑Aurum supports fast integration for digital wallets, fintech applications, institutional trading platforms, and custodial services—strengthening the overall liquidity and utility of the EAU token.
+By providing a structured and developer-friendly API ecosystem, e‑Aurum supports fast integration for digital wallets, fintech applications, institutional trading platforms, and custodial services—strengthening the overall liquidity and utility of the eAU token.
 :::
