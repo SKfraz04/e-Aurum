@@ -7,7 +7,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'e-aurum ',
   tagline: 'Complete Guide to e-aurum',
-  favicon: 'img/eaurum.png',
+  favicon: 'img/eaurum.jpeg',
 
   url: 'https://your-docusaurus-site.com', // Replace with your actual website URL
   baseUrl: '/',
@@ -47,7 +47,7 @@ const config = {
         title: 'e-aurum',
         logo: {
           alt: 'e-aurum Logo',
-          src: 'img/eaurum.png',
+          src: 'img/eaurum.jpeg',
                   },
         items: [
           
