@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 ## Token Overview
 
-- e‑Aurum (eAU) is a BEP‑20 digital asset on Binance Smart Chain, designed to deliver the stability of physical gold in a fully programmable format. Each EAU token is precisely pegged to **1 gram of audited, allocated gold**, ensuring that token supply mirrors real‑world reserves at all times.
+- e‑Aurum (eAU) is a BEP‑20 digital asset on Binance Smart Chain, designed to deliver the stability of physical gold in a fully programmable format. Each eAU token is precisely pegged to **1 gram of audited, allocated gold**, ensuring that token supply mirrors real‑world reserves at all times.
 - By combining blockchain transparency with best‑in‑class security, e‑Aurum democratizes gold ownership and unlocks new financial utility for a traditionally illiquid asset.
 
 :::note Key Feature
@@ -17,15 +17,15 @@ By combining blockchain transparency with best‑in‑class security, e‑Aurum 
 ## Token Specifications
 
 :::info Technical Details
-The following specifications define the core parameters of the EAU token:
+The following specifications define the core parameters of the eAU token:
 :::
 
 | **Attribute**        | **Details**                                        |
 |----------------------|---------------------------------------------------|
 | **Token Name**       | e‑Aurum                                           |
-| **Symbol**           | EAU                                               |
+| **Symbol**           | eAU                                               |
 | **Standard**         | BEP‑20 (Binance Smart Chain)                      |
-| **Peg**              | 1 EAU = 1 gram of physical gold                   |
+| **Peg**              | 1 eAU = 1 gram of physical gold                   |
 | **Decimals**         | 18                                                |
 | **Contract Address** | TBD                                               |
 | **Audit Frequency**  | Quarterly proof-of-reserve audits                 |
@@ -33,12 +33,12 @@ The following specifications define the core parameters of the EAU token:
 ## Price Pegging & Valuation Mechanism 
 
 :::tip Core Mechanism
-The price pegging mechanism ensures that EAU tokens maintain a 1:1 ratio with physical gold through automated processes and reliable price feeds.
+The price pegging mechanism ensures that eAU tokens maintain a 1:1 ratio with physical gold through automated processes and reliable price feeds.
 :::
 
 - **Real-Time Price Feeds:** e‑Aurum integrates decentralized oracle networks (e.g., Chainlink) to source live spot prices for gold, updated every minute to ensure precise valuation. 
 
-- **Automated Mint & Burn:** Smart contracts automatically mint new EAU tokens upon verified gold deposits and burn tokens when users redeem for physical gold, preserving a `1:1 peg`. 
+- **Automated Mint & Burn:** Smart contracts automatically mint new eAU tokens upon verified gold deposits and burn tokens when users redeem for physical gold, preserving a `1:1 peg`. 
 
 - **Fallback Oracles:** Secondary price feeds provide redundancy, guaranteeing uninterrupted peg maintenance during primary feed outages. 
 
@@ -71,13 +71,13 @@ The price pegging mechanism ensures that EAU tokens maintain a 1:1 ratio with ph
 
 - **Digital Gold Investment:** Acquire and trade gold without physical custody complexities. 
 
-- **Collateral & DeFi Integration:** Use EAU as collateral in lending, borrowing, and yield-farming protocols. 
+- **Collateral & DeFi Integration:** Use eAU as collateral in lending, borrowing, and yield-farming protocols. 
 
-- **Treasury Asset:** Allocate EAU tokens as a stable store of value for corporate treasuries and institutional portfolios. 
+- **Treasury Asset:** Allocate eAU tokens as a stable store of value for corporate treasuries and institutional portfolios. 
 
 - **Cross-Border Payments:** Facilitate low-cost, high-speed transfers denominated in a stable, globally recognized asset. 
 
-- **Merchant Settlements:** Accept EAU tokens for goods and services as an inflation-resistant payment method. 
+- **Merchant Settlements:** Accept eAU tokens for goods and services as an inflation-resistant payment method. 
 
 ## Reward Pool & Incentives
 
@@ -87,7 +87,7 @@ The price pegging mechanism ensures that EAU tokens maintain a 1:1 ratio with ph
 
 ## Burn & Redemption Mechanism 
 
-- **Redemption Options:** Users may redeem EAU for physical gold via vault pickup or insured home delivery (subject to KYC and minimum redemption thresholds). 
+- **Redemption Options:** Users may redeem eAU for physical gold via vault pickup or insured home delivery (subject to KYC and minimum redemption thresholds). 
 
 - **Fees & Processing Times:** A standard redemption fee of 0.5% applies; processing times range from 1–5 business days depending on delivery method. 
 

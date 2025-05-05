@@ -15,7 +15,7 @@ Users have the option to connect their existing wallets or generate new wallets 
  Upon registration, each user is provisioned with a non-custodial wallet using Multi-Party Computation (MPC) technology. This ensures private key security by splitting and distributing key shares across secure nodes.
 
 - **External Wallet Support:** 
- Users may also connect their existing ERC-20 compatible wallets (e.g., MetaMask, Trust Wallet) for full flexibility in managing their EAU tokens.
+ Users may also connect their existing ERC-20 compatible wallets (e.g., MetaMask, Trust Wallet) for full flexibility in managing their eAU tokens.
 
 ## MPC Wallet Security Architecture
 
